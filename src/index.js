@@ -16,13 +16,13 @@ let secPrevTotal = 0
 let minPrevTotal = 0
 let catLevel = 0
 let prev_time = 0
-// let catUpgradeText = [
-//   'Give cats treats for clicking',
-//   'Give cats lots of pets',
-//   'Buy Catnip',
-//   'Increase cat treats',
-//   'Make a mouse click leaderboard for which cat has the most clicks',
-// ]
+let catUpgradeText = [
+  'Give cats treats for clicking',
+  'Give cats lots of pets',
+  'Buy Catnip',
+  'Increase cat treats',
+  'Make a mouse click leaderboard for which cat has the most clicks',
+]
 
 // clicking
 function increase() {
